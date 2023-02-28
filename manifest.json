@@ -1,0 +1,12 @@
+{
+  "name": "YouTube Shorts Blocker",
+  "description": "Block the Shorts tab!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/"],
+      "js": ["/removal_script.js"]
+    }
+  ]
+}
