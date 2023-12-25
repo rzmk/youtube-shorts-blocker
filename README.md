@@ -1,3 +1,5 @@
+# Note: This project is not maintained.
+
 # YouTube Shorts Blocker
 
 A simple Google Chrome extension that blocks the YouTube Shorts menu item when you load YouTube on a Google Chrome browser.
